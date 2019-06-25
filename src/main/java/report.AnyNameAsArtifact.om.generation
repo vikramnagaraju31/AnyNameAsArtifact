@@ -1,0 +1,125 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    Peers generated in package AnyPackageName.om
+    Objects generated in package AnyPackageName.om
+    Managers generated in package AnyPackageName.om
+    Beans generated in package AnyPackageName.om.bean
+
+    Created dir: E:\DesktopWorkspace\Maven\AnyNameAsArtifact\src\main\java/AnyPackageName\om\
+
+    Failed to create dir or dir already exists: E:\DesktopWorkspace\Maven\AnyNameAsArtifact\src\main\java/AnyPackageName\om\
+
+
+
+
+        table1
+
+        
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    Peers generated in package AnyPackageName.om
+    Objects generated in package AnyPackageName.om
+    Managers generated in package AnyPackageName.om
+    Beans generated in package AnyPackageName.om.bean
+
+    Failed to create dir or dir already exists: E:\DesktopWorkspace\Maven\AnyNameAsArtifact\src\main\java/AnyPackageName\om\
+
+    Failed to create dir or dir already exists: E:\DesktopWorkspace\Maven\AnyNameAsArtifact\src\main\java/AnyPackageName\om\
+
+
+
+
+        TURBINE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_GROUP
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+
+          
+
+          
+
+
+
